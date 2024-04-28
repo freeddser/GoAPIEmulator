@@ -35,7 +35,7 @@
     "response": "It sleep done:10s"
     }
 
-### /timeout/:number
+### /header
     apikey freeddser
     ### api key error
     {
